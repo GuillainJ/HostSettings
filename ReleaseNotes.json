@@ -1,0 +1,20 @@
+{
+  "News": {
+    "Show": true,
+    "Item1": "• Nouveauté 1",
+    "Item2": "• Nouveauté 2",
+    "Item3": "● Nouveauté 3"
+  },
+  "Improvements": {
+    "Show": true,
+    "Item1": "Amélioration 1",
+    "Item2": "Amélioration 2",
+    "Item3": "Amélioration 3"
+  },
+  "Patchs": {
+    "Show": true,
+    "Item1": "Correctif 1",
+    "Item2": "Correctif 2",
+    "Item3": "Correctif 3"
+  }
+}
