@@ -1,14 +1,14 @@
 {
   "News": {
     "Show": true,
-    "Item1": "● Nouveauté 1 - Ce nouveau bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien bandeau est vraiment trop bien",
+    "Item1": "● Nouveauté 1",
     "Item2": "● Nouveauté 2",
     "Item3": ""
   },
   "Improvements": {
     "Show": true,
     "Item1": "● Amélioration 1",
-    "Item2": "● Amélioration 2 : On a bien bien réduit les temps de calcul!",
+    "Item2": "● Amélioration 2",
     "Item3": "● Amélioration 3"
   },
   "Patchs": {
@@ -19,4 +19,5 @@
   }
 
 }
+
 
