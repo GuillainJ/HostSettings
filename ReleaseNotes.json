@@ -1,26 +1,24 @@
 {
   "News": {
     "Show": true,
-    "MainContent1": "● Test MainContent. ",
-    "Item1": "Nouveauté 1",
-    "Item2": "● Nouveauté 2",
+    "Item1": "● Nouvelle version bêta du bandeau. L'ancien bandeau est toujours disponible, dans l'onglet EIFFAGE.",
+    "Item2": "● Le nouveau bandeau, dans l'onglet EIFFAGE26, dispose d'un moteur de calcul plus rapide, personnalisables en mode avancé et basé sur de nouveaux paramètres.",
     "Item3": ""
   },
   "Improvements": {
     "Show": true,
-    "MainContent1": "● Test MainContent. ",
-    "Item1": "Amélioration 1",
-    "Item2": "● Amélioration 2",
-    "Item3": "● Amélioration 3"
+    "Item1": "● Expérience utilisateur : Nouveau design des boutons pour une meilleure compréhension des fonctionnalités et une interface utilisateur plus intuitive.",
+    "Item2": "● Gestion des paramètres : Les paramètres sont désormais homogénéisés avec des noms cohérents et intègrent les unités.",
+    "Item3": "● Calculs QGO : L'ensemble des calculs ont été revus pour corriger les potentielles lacunes et assurer une plus grande fiabilité."
   },
   "Patchs": {
-    "Show": true,
-    "MainContent1": "● Test MainContent. ",
-    "Item1": "Correctif 1",
+    "Show": false,
+    "Item1": "● Correctif 1",
     "Item2": "● Correctif 2",
     "Item3": ""
   }
 }
+
 
 
 
