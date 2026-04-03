@@ -1,0 +1,41 @@
+{
+  "2026.0.1": {
+    "News": {
+      "Show": true,
+      "Item1": "● Migration et amélioration de la fonction Colorer les objets. Possibilité de l'utiliser en multicatégories et sur l'ensemble des paramètres.",
+      "Item2": "● Migration de la fonction Importer paramètre n-1.",
+      "Item3": "● Ajout du bandeau BIM Factory et de la fonction de Configuration du bandeau."
+    },
+    "Improvements": {
+      "Show": true,
+      "Item1": "● Création automatique d'un fichier de paramètres partagés s'il n'y en a pas où s'il n'est pas valide.",
+      "Item2": "",
+      "Item3": ""
+    },
+    "Patchs": {
+      "Show": true,
+      "Item1": "Visionneuse : Résolution d'un bug qui faisait crasher Revit lorsque la clef générique d'un objet n'était pas adaptée à sa catégorie.",
+      "Item2": "Codifieuse : Résolution d'un bug qui faisait crasher Revit lorsque l'on validait sans avoir sélectionné l'ensemble des paramètres.'",
+      "Item3": "Exports de quantités : Les exports de quantités étaient vides si les calculs n'étaient pas lancés dans la session active de Revit.'"
+    }
+  },
+  "2026.0.0": {
+    "News": {
+      "Show": true,
+      "Item1": "● Nouvelle version bêta du bandeau. L'ancien bandeau est toujours disponible, dans l'onglet EIFFAGE.",
+      "Item2": "● Le nouveau bandeau, dans l'onglet EIFFAGE V2, dispose d'un moteur de calcul plus rapide, personnalisables en mode avancé et basé sur de nouveaux paramètres.",
+      "Item3": ""
+    },
+    "Improvements": {
+      "Show": true,
+      "Item1": "● Expérience utilisateur : Nouveau design des boutons pour une meilleure compréhension des fonctionnalités et une interface utilisateur plus intuitive.",
+      "Item2": "● Gestion des paramètres : Les paramètres sont désormais homogénéisés avec des noms cohérents et intègrent les unités.",
+      "Item3": "● Calculs QGO : L'ensemble des calculs ont été revus pour corriger les potentielles lacunes et assurer une plus grande fiabilité."
+    },
+    "Patchs": {
+      "Show": false,
+      "Item1": "",
+      "Item2": "",
+      "Item3": ""
+    }
+  }
