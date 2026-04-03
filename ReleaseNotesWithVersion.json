@@ -14,9 +14,9 @@
     },
     "Patchs": {
       "Show": true,
-      "Item1": "Visionneuse : Résolution d'un bug qui faisait crasher Revit lorsque la clef générique d'un objet n'était pas adaptée à sa catégorie.",
-      "Item2": "Codifieuse : Résolution d'un bug qui faisait crasher Revit lorsque l'on validait sans avoir sélectionné l'ensemble des paramètres.'",
-      "Item3": "Exports de quantités : Les exports de quantités étaient vides si les calculs n'étaient pas lancés dans la session active de Revit.'"
+      "Item1": "● Visionneuse : Résolution d'un bug qui faisait crasher Revit lorsque la clef générique d'un objet n'était pas adaptée à sa catégorie.",
+      "Item2": "● Codifieuse : Résolution d'un bug qui faisait crasher Revit lorsque l'on validait sans avoir sélectionné l'ensemble des paramètres.'",
+      "Item3": "● Exports de quantités : Les exports de quantités étaient vides si les calculs n'étaient pas lancés dans la session active de Revit.'"
     }
   },
   "2026.0.0": {
