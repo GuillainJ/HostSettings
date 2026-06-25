@@ -1,4 +1,24 @@
 {
+    "2026.2.0": {
+    "News": {
+      "Show": true,
+      "Item1": "● Migration des outils de Mise en page",
+      "Item2": "● Ajout de fonctionnalité de Mise en page :\n     - Dupliquer et incrémenter des filtres",
+      "Item3": "● Migration du plugin 'Fiche de poste' (Onglet EC_Chantier)"
+    },
+    "Improvements": {
+      "Show": true,
+      "Item1": "● Détection des paramètres de dimension 'Largeur' ou 'Hauteur' sur les réservations en dalle.",
+      "Item2": "● Mise à jour des paramètres : Elle intègre maintenant les filtres de nomenclature.",
+      "Item3": ""
+    },
+    "Patchs": {
+      "Show": true,
+      "Item1": "● Création des paramètres : Résolution d'un bug lié au plugin Mills qui bloquait l'écriture du fichier de paramètres partagés",
+      "Item2": "● Création des paramètres : L'option 'Modifiable par l'utilisateur' ne fonctionnait plus si les paramètres existaient dans le fichier de paramètre partagés.",
+      "Item3": "● Calcul des poteaux : Correctif d'un bug sur les poteaux qui ont une poutre inclinée en hôte."
+    }
+  },
   "2026.1.0": {
     "News": {
       "Show": true,
