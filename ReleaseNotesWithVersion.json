@@ -3,7 +3,7 @@
     "News": {
       "Show": true,
       "Item1": "● Migration des outils de Mise en page",
-      "Item2": "● Ajout de fonctionnalité de Mise en page :\n     - Dupliquer et incrémenter des filtres",
+      "Item2": "● Ajout de fonctionnalité de Mise en page :\n     - Dupliquer et incrémenter des filtres\n     - Supprimer des filtres\n     - Dupliquer et incrémenter des gabarits\n     - Supprimer des gabarits",
       "Item3": "● Migration du plugin 'Fiche de poste' (Onglet EC_Chantier)"
     },
     "Improvements": {
