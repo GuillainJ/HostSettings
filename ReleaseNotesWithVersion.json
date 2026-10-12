@@ -3,7 +3,7 @@
     "News": {
       "Show": true,
       "Item1": "● Montée de version. Le Bandeau est désormais disponible sur Revit 2027.",
-      "Item2": "● Migration de la fonctionnalité "Codification Spécifications",
+      "Item2": "● Migration de la fonctionnalité Codification Spécifications.",
       "Item3": "● BIM Factory : Embarquement d'une version 'Hors ligne' pour les utilisateurs qui n'ont pas encore synchronisé le sharepoint ou pour les utilisateurs On Premise."
     },
     "Improvements": {
