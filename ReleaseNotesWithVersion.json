@@ -1,4 +1,24 @@
 {
+    "2027.0.0": {
+    "News": {
+      "Show": true,
+      "Item1": "● Montée de version. Le Bandeau est désormais disponible sur Revit 2027.",
+      "Item2": "● Migration de la fonctionnalité "Codification Spécifications",
+      "Item3": "● BIM Factory : Embarquement d'une version 'Hors ligne' pour les utilisateurs qui n'ont pas encore synchronisé le sharepoint ou pour les utilisateurs On Premise."
+    },
+    "Improvements": {
+      "Show": true,
+      "Item1": "● Détection des paramètres de dimension 'Largeur' ou 'Hauteur' sur les réservations en dalle.",
+      "Item2": "● Mise à jour des paramètres : Elle intègre maintenant les filtres de nomenclature.",
+      "Item3": ""
+    },
+    "Patchs": {
+      "Show": true,
+      "Item1": "● Création des paramètres : Résolution d'un bug lié au plugin Mills qui bloquait l'écriture du fichier de paramètres partagés",
+      "Item2": "● Création des paramètres : L'option 'Modifiable par l'utilisateur' ne fonctionnait plus si les paramètres existaient dans le fichier de paramètre partagés.",
+      "Item3": "● Calcul des poteaux : Correctif d'un bug sur les poteaux qui ont une poutre inclinée en hôte."
+    }
+  },
     "2026.2.0": {
     "News": {
       "Show": true,
